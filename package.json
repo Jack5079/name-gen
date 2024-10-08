@@ -2,6 +2,7 @@
   "name": "namecraft",
   "module": "index.ts",
   "type": "module",
+  "license": "MPL-2.0",
   "devDependencies": {
     "@types/bun": "latest"
   },

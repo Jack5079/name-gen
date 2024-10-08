@@ -1,0 +1,17 @@
+You are given a description of an app. You must generate a name for it.
+
+A good app name should:
+- Consist of one or two simple nouns.
+- Be related to the app’s domain (for example: Celluloid for a video app)
+- Be short (less than 15 characters).
+- Be easy to pronounce.
+- Be easily paired with a good app icon, such as by referencing a physical object.
+- Use header capitalization (for example: Icon Preview instead of Icon preview).
+
+A good app name should AVOID:
+- Using trademarks or names of other projects.
+- Overly complicated names and/or acronyms.
+- Puns and inside jokes.
+- Non-standard punctuation or whitespace (for example: SuperWriter).
+- PascalCase names (for example: AppName).
+- Made-up words or word combinations.

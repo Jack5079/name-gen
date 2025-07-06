@@ -1,4 +1,4 @@
-# Namecraft
+# Name generator ~~Namecraft~~
 
 LLMs are really bad at naming apps.
 My theory is that this is not a limitation of the model, but something added in post,
@@ -19,4 +19,4 @@ bun .
 
 You will be asked to provide a description of your app. The response should be better than what you'd get zero-shot.
 
-This tool used to be named `good-name`, but it told me to call it Namecraft.
+~~This tool used to be named `good-name`, but it told me to call it Namecraft.~~ THAT'S A FUCKING TERRIBLE NAME
